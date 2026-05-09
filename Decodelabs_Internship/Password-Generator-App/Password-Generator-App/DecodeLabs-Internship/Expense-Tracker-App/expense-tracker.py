@@ -1,14 +1,3 @@
-"""
-Professional Expense Tracker
-Internship Project
-
-Features:
-- Continuous expense entry
-- View all expenses
-- View total
-- Clean UX flow
-"""
-
 def display_menu():
     print("\n" + "=" * 45)
     print("         EXPENSE TRACKER SYSTEM")
